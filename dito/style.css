@@ -1,0 +1,20 @@
+div ul li {
+	display: inline;
+}
+
+body {
+
+	background-color: #fff
+}
+
+#container{
+	background-color: gray;
+	height: 800px;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header{
+	background-color: blue;
+}
