@@ -3561,7 +3561,7 @@ src: url('kameron.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
 			-webkit-transition-delay: 3.5s;
 			-ms-transition-delay: 3.5s;
 			transition-delay: 3.5s;
-			/*css bouncing button effect*/
+			/*css bouncing button effect
 			-webkit-border-radius:50%;
  -moz-border-radius:50%;
  -ms-border-radius:50%;
@@ -3569,7 +3569,7 @@ src: url('kameron.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
  animation: bounce 2s infinite;
  -webkit-animation: bounce 2s infinite;
  -moz-animation: bounce 2s infinite;
- -o-animation: bounce 2s infinite;
+ -o-animation: bounce 2s infinite;*/
 			/*css bouncing button effect*/
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
