@@ -3553,7 +3553,7 @@ src: url('kameron.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
 			}
 
 		#banner .more {
-			-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
+			/*-moz-transition: -moz-transform 0.75s ease, opacity 0.75s ease;
 			-webkit-transition: -webkit-transform 0.75s ease, opacity 0.75s ease;
 			-ms-transition: -ms-transform 0.75s ease, opacity 0.75s ease;
 			transition: transform 0.75s ease, opacity 0.75s ease;
@@ -3564,7 +3564,7 @@ src: url('kameron.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
 			-moz-transform: translateY(0);
 			-webkit-transform: translateY(0);
 			-ms-transform: translateY(0);
-			transform: translateY(0);
+			transform: translateY(0);*/
 			/*css bouncing button effect*/
 			-webkit-border-radius:50%;
  -moz-border-radius:50%;
